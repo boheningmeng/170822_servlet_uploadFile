@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="170822_servlet_uploadFile:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/170822_servlet_uploadFile_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="170822_servlet_uploadFile/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="170822_servlet_uploadFile" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
